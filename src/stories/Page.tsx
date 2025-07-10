@@ -39,6 +39,7 @@ export const Page: React.FC = () => {
         </p>
         <p>I'm a new paragraph</p>
         <p>Change in feature A</p>
+        <p>Add another feature A change</p>
         <ul>
           <li>
             Use a higher-level connected component. Storybook helps you compose
