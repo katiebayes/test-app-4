@@ -38,6 +38,7 @@ export const Page: React.FC = () => {
           some handy patterns for managing page data in Storybook:
         </p>
         <p>I'm a new paragraph</p>
+        <p>Change in feature A</p>
         <ul>
           <li>
             Use a higher-level connected component. Storybook helps you compose
