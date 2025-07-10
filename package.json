@@ -12,7 +12,7 @@
     "build-storybook": "storybook build",
     "staging-chromatic": "npx chromatic --project-token=chpt_4ab07b0aaecad7b",
     "review-app-chromatic": "CHROMATIC_INDEX_URL='https://chromatic-index-pr-9921.herokuapp.com' npx chromatic --project-token=chpt_4ab07b0aaecad7b",
-    "dev-chromatic": "CHROMATIC_INDEX_URL='https://index.dev-chromatic.com' npx chromatic --project-token=chpt_49d532afd4ec533"
+    "chromatic": "CHROMATIC_INDEX_URL='https://index.dev-chromatic.com' npx chromatic --project-token=chpt_49d532afd4ec533"
   },
   "dependencies": {
     "react": "^19.1.0",
