@@ -41,6 +41,7 @@ export const Page: React.FC = () => {
         <p>Change in feature A</p>
         <p>Add another feature A change</p>
         <p>Change that will merge into feature A</p>
+        <p>Another change that will merge into feature A</p>
         <ul>
           <li>
             Use a higher-level connected component. Storybook helps you compose
