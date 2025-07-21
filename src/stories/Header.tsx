@@ -54,6 +54,7 @@ export const Header = ({
             <span className="welcome">
               Welcome, <b>{user.name}</b>!
             </span>
+            <span>Make a change for feature a 7/21</span>
             <Button size="small" onClick={onLogout} label="Log out" />
           </>
         ) : (
