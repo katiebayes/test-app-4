@@ -39,6 +39,7 @@ export const Page: React.FC = () => {
         </p>
         <p>I'm a new paragraph</p>
         <p>Change in feature A</p>
+        <p>Change in feature D</p>
         <p>Add another feature A change</p>
         <p>Change that will merge into feature A</p>
         <p>Another change that will merge into feature A HELLO HELLO</p>
