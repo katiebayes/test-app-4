@@ -21,6 +21,7 @@ export const Page: React.FC = () => {
 
       <section className="storybook-page">
         <h2>Pages in Storybook</h2>
+        <p>feature E change</p>
         <p>
           We recommend building UIs with a{" "}
           <a
