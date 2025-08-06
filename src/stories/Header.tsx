@@ -47,8 +47,7 @@ export const Header = ({
         <h1>Acme</h1>
       </div>
       <p>Some other change directly on main</p>
-      <p>A change!</p>
-      <p>Another change</p>
+      <p>Something</p>
       <div>
         {user ? (
           <>
