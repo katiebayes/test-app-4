@@ -48,6 +48,7 @@ export const Header = ({
       </div>
       <p>Some other change directly on main</p>
       <p>A change!</p>
+      <p>Another change</p>
       <div>
         {user ? (
           <>
