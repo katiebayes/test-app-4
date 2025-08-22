@@ -39,12 +39,15 @@ export const Page: React.FC = () => {
         </p>
         <p>I'm a new paragraph</p>
         <p>New thing here</p>
+        <p>New feature change</p>
         <ul>
           <li>
             Use a higher-level connected component. Storybook helps you compose
             such data from the "args" of child component stories
           </li>
           <li>Change on feature B</li>
+          <p>Another feature change test</p>
+          <p>Some other change!</p>
           <li>
             Assemble data in the page component from your services. You can mock
             these services out using Storybook.
