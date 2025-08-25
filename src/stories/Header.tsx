@@ -46,7 +46,7 @@ export const Header = ({
         </svg>
         <h1>Acme</h1>
       </div>
-      <p>Something</p>
+      <p>Some other change directly on main</p>
       <div>
         {user ? (
           <>
